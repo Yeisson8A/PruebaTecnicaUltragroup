@@ -1,0 +1,6 @@
+@PruebaTecnicaUltragroup.Api_HostAddress = http://localhost:5239
+
+GET {{PruebaTecnicaUltragroup.Api_HostAddress}}/api/Hotel
+Accept: application/json
+
+###
